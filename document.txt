@@ -1,0 +1,22 @@
+
+Explicacion del codigo generado hasta la grafica automatica utilizando D3.js
+
+
+> index.html: 
+    
+    En la linea 16 esta la referencia de la libreria D3js 
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    En la linea 84 treame la grafica mediante una clase
+        <div class="chart"></div>
+        
+    En la linea 86 hacemos referencia del archivo JS que tiene todo la logica y diseno de la grafica.
+        <script src="script.js"></script>
+
+
+
+> script.js:
+
+    Diseno y logica de la grafica utilizando BAR CHART RACE 
+    https://observablehq.com/@d3/bar-chart-race?intent=fork    
+    
